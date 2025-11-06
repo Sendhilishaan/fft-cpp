@@ -17,4 +17,19 @@ And we are using chirp signals to transform the DFT into a convolution:
 
 >$a[k] * exp(-i{\pi}k^2/n)$
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Putting this on my github because I like it and I want to replace one of my pinned projects.

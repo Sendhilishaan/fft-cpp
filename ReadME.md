@@ -15,7 +15,7 @@ any input size, and great for prime length sequences. We use a cool identity:
 
 And we are using chirp signals to transform the DFT into a convolution:
 
->$a[k] * exp(-i{\pi}k^2/n)$
+>$a[k] * e^{(-i{\pi}k^2/n)}$
 
 
 
